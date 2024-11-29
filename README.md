@@ -201,10 +201,202 @@
   </tr>
 
   <tr>
-    <td>25</td>
-    <td>سوال برنامه نویسی برنامه نویسی سوال</td>
+    <td>26</td>
+    <td>جدول ضرب گنده</td>
     <td>cpp</td>
-    <td><a href="https://quera.org/problemset/3408">سوال</td>
-    <td><a href="https://gist.github.com/ArefOrumiehei/d89ada452b218277b56990236290889a">جواب</td>
+    <td><a href="https://quera.org/problemset/3409">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/2930cbdb59fdcb6a1927ad3be642a935">جواب</td>
+  </tr>
+
+  <tr>
+    <td>27</td>
+    <td>مثلث خیام پاسکال</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/3410">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/7c1026ea5a0a0c761425e98623116ba6">جواب</td>
+  </tr>
+
+  <tr>
+    <td>28</td>
+    <td>دو نقطه خط</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/3414">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/5bcf7e4495bb079c49d33ff5da853490">جواب</td>
+  </tr>
+
+  <tr>
+    <td>29</td>
+    <td>یخدارچی</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/3429">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/7c4c86d75a0b9a4bf0463038e5224f5d">جواب</td>
+  </tr>
+
+  <tr>
+    <td>30</td>
+    <td>بلندگو</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/3430">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/97e822937753cb55118d806f14e332c9">جواب</td>
+  </tr>
+
+  <tr>
+    <td>31</td>
+    <td>اوقات فراغت</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/3431">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/78f50903a8ae98e17bc6c4eaac8e4d07">جواب</td>
+  </tr>
+
+  <tr>
+    <td>32</td>
+    <td>سوال زرد</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/3537">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/3fef433b9b63fba630969c36f9e21f53">جواب</td>
+  </tr>
+
+  <tr>
+    <td>33</td>
+    <td>!آخ جون طرف نیست</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/3538">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/36b270dcdabbe38e2f11f18d7f2808cd">جواب</td>
+  </tr>
+
+  <tr>
+    <td>34</td>
+    <td>تک‌رقمی</td>
+    <td>cpp-python</td>
+    <td><a href="https://quera.org/problemset/3539">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/48cf89848d1464531fdf0be5d2518a1a">جواب</td>
+  </tr>
+
+  <tr>
+    <td>35</td>
+    <td>گردو شکستم</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/3540">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/4fbb9dfa2fa3e299c3c90d9598853ead">جواب</td>
+  </tr>
+
+  <tr>
+    <td>36</td>
+    <td>!!خر در چمن فراوونه</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/4065">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/cc6588417cd326f1ef7f417b845b4e94">جواب</td>
+  </tr>
+
+  <tr>
+    <td>37</td>
+    <td>سراب</td>
+    <td>python</td>
+    <td><a href="https://quera.org/problemset/4067">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/3d675c4ca186521c09d206d6687fd945">جواب</td>
+  </tr>
+
+  <tr>
+    <td>38</td>
+    <td>خرما</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/4068">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/652ee20974250a4419b395d104ef643b">جواب</td>
+  </tr>
+
+  <tr>
+    <td>39</td>
+    <td>آسمان شکر آباد</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/6082">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/7d07499ee125da60e0b94ea762eb653e">جواب</td>
+  </tr>
+
+  <tr>
+    <td>40</td>
+    <td>حرکت روی ظروف</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/6375">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/02442b1ca9ad58bbb4aff91fbb987b36">جواب</td>
+  </tr>
+
+  <tr>
+    <td>41</td>
+    <td>کمک به کاپی</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/8838">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/45ce7967121b99aaae4dd78decdaf9db">جواب</td>
+  </tr>
+
+  <tr>
+    <td>42</td>
+    <td>لیوان بازی</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/8901">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/39e013e7114f8470e8e820a41255f431">جواب</td>
+  </tr>
+
+  <tr>
+    <td>43</td>
+    <td>اسنپ در شکرستان</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/8938">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/2f57e3fdad1971eb5575863764e2f8c6">جواب</td>
+  </tr>
+
+  <tr>
+    <td>44</td>
+    <td>مجید و ماژیک‌هاش</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/9109">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/2b7f7b3a2c712331c4d3abf043855c64">جواب</td>
+  </tr>
+
+  <tr>
+    <td>45</td>
+    <td>مجید، میلاد، رشته‌سازی</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/9110">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/7cf33a7fee34da146d2af208e52f1018">جواب</td>
+  </tr>
+
+  <tr>
+    <td>46</td>
+    <td>لوزی‌های ستاره‌ای</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/9773">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/607d99338387b477393e061ce0d1080d">جواب</td>
+  </tr>
+
+  <tr>
+    <td>47</td>
+    <td>عدد چاپ‌کن</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/9774">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/a1f4055f94408b460e5d75487cc8d7d1">جواب</td>
+  </tr>
+
+  <tr>
+    <td>48</td>
+    <td>روز آزادی بیان در برره</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/10162">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/bf5137f45a5b7d06151083c420bf3c74">جواب</td>
+  </tr>
+
+  <tr>
+    <td>49</td>
+    <td>تیم ملی نخودخوری در برره</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/10163">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/98aa83ced22e276cc4bd1462840aede9">جواب</td>
+  </tr>
+
+  <tr>
+    <td>50</td>
+    <td>سیکل گرفتن در برره</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/10166">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/757e6cb9a9a185dacd711c22c44e8e48">جواب</td>
   </tr>
 </table>
