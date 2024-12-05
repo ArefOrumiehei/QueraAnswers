@@ -599,4 +599,220 @@
     <td><a href="https://quera.org/problemset/34081">سوال</td>
     <td><a href="https://gist.github.com/ArefOrumiehei/ef49faecdbcb0851961bfdcd76080de6">جواب</td>
   </tr>
+
+  <tr>
+    <td>76</td>
+    <td>Simple HTML</td>
+    <td>html</td>
+    <td><a href="https://quera.org/problemset/43844">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/62c0e6af711088fad0587906b4a9772d">جواب</td>
+  </tr>
+
+  <tr>
+    <td>77</td>
+    <td>Background Color Switch</td>
+    <td>js</td>
+    <td><a href="https://quera.org/problemset/49606">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/111ff5b0867d022e8f9a0791ab604c75">جواب</td>
+  </tr>
+
+  <tr>
+    <td>78</td>
+    <td>بهداشت و سلامت</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/51865">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/06281a3fedac9bca8649e56438b381fe">جواب</td>
+  </tr>
+
+  <tr>
+    <td>79</td>
+    <td>انتخاب‌کننده تودرتو</td>
+    <td>css</td>
+    <td><a href="https://quera.org/problemset/66543">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/d1c48c398c02b67eebf8158a0120bf61">جواب</td>
+  </tr>
+
+  <tr>
+    <td>80</td>
+    <td>بازی XO</td>
+    <td>js</td>
+    <td><a href="https://quera.org/problemset/66544">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/27e036c238e0c9e7f0c55a75719989c3">جواب</td>
+  </tr>
+
+  <tr>
+    <td>81</td>
+    <td>محصولات</td>
+    <td>js</td>
+    <td><a href="https://quera.org/problemset/66548">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/cc1edaa0464192f1069199570660209e">جواب</td>
+  </tr>
+
+  <tr>
+    <td>82</td>
+    <td>عدد خوب</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/66861">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/6368f373747acc496f6631255888ab5b">جواب</td>
+  </tr>
+
+  <tr>
+    <td>83</td>
+    <td>وسط قرار دادن المان</td>
+    <td>css</td>
+    <td><a href="https://quera.org/problemset/68275">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/4b094022fab4a3f8c78dcfbfc5ad76a5">جواب</td>
+  </tr>
+
+  <tr>
+    <td>84</td>
+    <td>فرمانده‌ی بازنشسته</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/72874">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/ffba28730da7a4a9f84ba4d243b79006">جواب</td>
+  </tr>
+
+  <tr>
+    <td>85</td>
+    <td>جوج</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/72875">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/5e05feb8865e6266b2e656f132bad939">جواب</td>
+  </tr>
+
+  <tr>
+    <td>86</td>
+    <td>غُل‌بانو و دوقلوهایش</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/72876">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/42025a62f6dce473e5cdb8668f47eb78">جواب</td>
+  </tr>
+
+  <tr>
+    <td>87</td>
+    <td>پشمال‌آقا</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/72877">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/a7e6187b7dc05ddfb17015ffa8332a3a">جواب</td>
+  </tr>
+
+  <tr>
+    <td>88</td>
+    <td>معجون سوسک قرمز و اسفناج گندیده</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/72880">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/4549a88399aff30ce03352c51ee224e9">جواب</td>
+  </tr>
+
+  <tr>
+    <td>89</td>
+    <td>سوپ سبزیجات</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/72881">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/1c4d68a57c10738ac742e8ec01a4a7f4">جواب</td>
+  </tr>
+
+  <tr>
+    <td>90</td>
+    <td>مارپیچ</td>
+    <td>css</td>
+    <td><a href="https://quera.org/problemset/82518">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/6b07574d5f6050afaf9702937c93c664">جواب</td>
+  </tr>
+
+  <tr>
+    <td>91</td>
+    <td>بله</td>
+    <td>html-css</td>
+    <td><a href="https://quera.org/problemset/98448">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/4da152318ba1568988e84eb242333a1e">جواب</td>
+  </tr>
+
+  <tr>
+    <td>92</td>
+    <td>اسنپ‌شاپ</td>
+    <td>html-css</td>
+    <td><a href="https://quera.org/problemset/109570">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/a9a763a4bec71a6c9d7df867232c05ed">جواب</td>
+  </tr>
+
+  <tr>
+    <td>93</td>
+    <td>سلام DevOps</td>
+    <td>bash</td>
+    <td><a href="https://quera.org/problemset/129786">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/a0074af46c2d9675403f92fc150aa916">جواب</td>
+  </tr>
+
+  <tr>
+    <td>94</td>
+    <td>سلام کدکاپ</td>
+    <td>css</td>
+    <td><a href="https://quera.org/problemset/132260">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/e238a3b7060260e4f83378918b55b8de">جواب</td>
+  </tr>
+
+  <tr>
+    <td>95</td>
+    <td>رِنج قیمت مفید</td>
+    <td>html-css</td>
+    <td><a href="https://quera.org/problemset/134351">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/28ce90c61ce26b24fa7c09fc7dbf9989">جواب</td>
+  </tr>
+
+  <tr>
+    <td>96</td>
+    <td>بشمار</td>
+    <td>js</td>
+    <td><a href="https://quera.org/problemset/134354">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/b7edbc35caf10b83b458eb9bf54d0e2e">جواب</td>
+  </tr>
+
+  <tr>
+    <td>97</td>
+    <td>زوجیت</td>
+    <td>python</td>
+    <td><a href="https://quera.org/problemset/140035">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/7ae5de840b5f3aa553bb10f974f462c4">جواب</td>
+  </tr>
+
+  <tr>
+    <td>98</td>
+    <td>I ❤ Mockstar</td>
+    <td>css</td>
+    <td><a href="https://quera.org/problemset/182260">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/64e04a305a62dcc746e5034daab27d68">جواب</td>
+  </tr>
+
+  <tr>
+    <td>99</td>
+    <td>کاسه و نخود</td>
+    <td>cpp</td>
+    <td><a href="https://quera.org/problemset/197000">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/7ae0309a4b2a179ed74ff86944f50b56">جواب</td>
+  </tr>
+
+  <tr>
+    <td>100</td>
+    <td>جدول دکارتی</td>
+    <td>python</td>
+    <td><a href="https://quera.org/problemset/209103">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/1dc8f83ce75d6df9596abcd94601e782">جواب</td>
+  </tr>
+
+  <tr>
+    <td>101</td>
+    <td>حاج مشتی</td>
+    <td>python</td>
+    <td><a href="https://quera.org/problemset/209104">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/dbced9812f7ed32d3d4d68b15d5c0e25">جواب</td>
+  </tr>
+
+  <tr>
+    <td>102</td>
+    <td>شش سنگ</td>
+    <td>python</td>
+    <td><a href="https://quera.org/problemset/211019">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/b3df2798f3730c110ea033e36d621340">جواب</td>
+  </tr>
 </table>
