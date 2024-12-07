@@ -815,4 +815,44 @@
     <td><a href="https://quera.org/problemset/211019">سوال</td>
     <td><a href="https://gist.github.com/ArefOrumiehei/b3df2798f3730c110ea033e36d621340">جواب</td>
   </tr>
+
+  <tr>
+    <td>103</td>
+    <td>ستارگان آینده گلرنگ</td>
+    <td>css</td>
+    <td><a href="https://quera.org/problemset/265387">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/e0d857e0a4013ae7821c8c6e69f63323">جواب</td>
+  </tr>
+
+  <tr>
+    <td>104</td>
+    <td>انیمیشن دکمه</td>
+    <td>js</td>
+    <td><a href="https://quera.org/problemset/265385">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/39e34529cade1c524612f3b5d687d6b5">جواب</td>
+  </tr>
+
+  <tr>
+    <td>105</td>
+    <td>دستور پخت</td>
+    <td>js</td>
+    <td><a href="https://quera.org/problemset/265386">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/37fe998797e171ab644b554ca996c87c">جواب</td>
+  </tr>
+
+  <tr>
+    <td>106</td>
+    <td>بستن مودال</td>
+    <td>react</td>
+    <td><a href="https://quera.org/problemset/265388">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/a82a2de26a5b5a98484a6cfa3cb7e041">جواب</td>
+  </tr>
+
+  <tr>
+    <td>107</td>
+    <td>کشیدن و رها کردن</td>
+    <td>react</td>
+    <td><a href="https://quera.org/problemset/265389">سوال</td>
+    <td><a href="https://gist.github.com/ArefOrumiehei/8303ae412b738aff98d509a9f283807a">جواب</td>
+  </tr>
 </table>
